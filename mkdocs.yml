@@ -1,0 +1,13 @@
+site_name: My Docs
+pages:
+    - 'Home': 'index.md'
+    - 'Tạo thời khóa biểu' : 
+      - 'Tạo trường mới' : 'school.md'
+      - 'Nhập ngày học, tiết học, tiết nghỉ' : 'day_hour_rest.md'
+      - 'Nhập môn học' : 'subjec-teacher.md'
+      - 'Nhập danh sách các khối và danh sách lớp học' : 'group.md'
+      - 'Phân công giảng dạy' : 'activity.md'
+      - 'Các ràng buộc' : 'constraint.md'
+      - 'Tạo thời khóa biểu' : 'create_timetable.md'
+theme: readthedocs
+extra_css: [extra.css]
